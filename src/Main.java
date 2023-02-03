@@ -31,7 +31,7 @@ public class Main {
     public static void main(String[] args) {
 
         Persona persona = new Persona();
-        persona.setEdad(16);
+        persona.setEdad(17);
         persona.setNombre("Santiago");
         persona.setTelefono("261123456");
 
